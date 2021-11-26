@@ -9,7 +9,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-This project asks for the user's sample password then displays that password's strength, how long it will take to guess the password, the warnings and sample suggestions. It was built with React.js with Material-UI Components
+This project asks for the user's sample password then displays that password's strength, how long it will take to guess the password, the warnings and sample suggestions. It was built using React.js with Material-UI Components
 
 
 <!-- GETTING STARTED -->
@@ -33,7 +33,7 @@ To get a local copy of this project, Follow these steps.
    ```
 
 ### Usage
-Run the React Development Server[http://localhost:3000](http://localhost:3000)
+Run the React Development Server ([http://localhost:3000](http://localhost:3000))
    ```sh
    npm install
    ```
