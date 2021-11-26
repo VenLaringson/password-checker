@@ -116,7 +116,7 @@ const App = () => {
             </Typography>
 
           <Typography component="h3" variant="subtitle1" align="center">
-            {message?.suggestions.map(suggestion=><>{suggestion} </>)}
+            {message?.suggestions?.map(suggestion=><>{suggestion} </>)}
             </Typography>
         </Box>:<></>}
       </Box>
